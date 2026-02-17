@@ -23,4 +23,10 @@ namex, namey = input("Name your values here: ").split()
 print(namex,"is",x)
 print(namey,"is",y)
 
+#---------------------------------------
+name2, location2, age2 = input("Enter your name, location and age: ").split()
+print("Welcome,",name2,"!" )
+print("You are currently in:",location2)
+print("You are now",age2,"years old!")
+
 
