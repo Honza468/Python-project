@@ -97,3 +97,21 @@ a, b, c, d = 1, 2, 3, 4 #Multiple assignments - assigning different values
 z1 = z2 = z3 = 100 #Multiple assignments
 
 print(a, b, c, d, z1, z2, z3) #printing out all the values
+
+print(line)
+
+#---------------------------------------
+string = "10"
+integrer = int(string)
+
+integrer2 = 5
+floatNumber = float(integrer2)
+
+integrer3 = 25
+string2 = str(integrer3)
+
+print(integrer)
+print(floatNumber)
+print(string2)
+
+print(line)
