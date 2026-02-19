@@ -70,6 +70,10 @@ print(type(name))
 print(type(age))
 print(type(location))
 
+del name
+del age
+del location
+
 print(line)
 
 print(type(x))
@@ -77,11 +81,20 @@ print(type(y))
 print(type(namex))
 print(type(namey))
 
+del x
+del y
+del namex
+del namey
+
 print(line)
 
 print(type(name2))
 print(type(location2))
 print(type(age2))
+
+del name2
+del location2
+del age2
 
 print(line)
 
@@ -89,6 +102,11 @@ print(type(name3))
 print(type(age3))
 print(type(weight))
 print(type(weight2))
+
+del name3
+del age3
+del weight
+del weight2
 
 print(line)
 
